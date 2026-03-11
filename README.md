@@ -8,6 +8,12 @@ This repository contains beginner-level C++ programs created for programming pra
 - Find Minimum of Three Numbers
 - Simple Calculator
 
+## Skills Demonstrated
+- Basic C++ programming
+- Functions
+- Conditional statements
+- Loops and logic building
+
 ## Language
 C++
 
