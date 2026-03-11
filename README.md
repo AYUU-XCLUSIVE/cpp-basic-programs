@@ -6,6 +6,7 @@ This repository contains beginner-level C++ programs created for programming pra
 - Fibonacci Series Generator
 - Swap Two Numbers using Function
 - Find Minimum of Three Numbers
+- Simple Calculator
 
 ## Language
 C++
