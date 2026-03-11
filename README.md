@@ -1,4 +1,14 @@
-Basic C++ programs for practice:
-- Fibonacci series
-- Swap two numbers using function
-- Minimum of three numbers
+# C++ Basic Programs
+
+This repository contains beginner-level C++ programs created for programming practice and logic building.
+
+## Programs Included
+- Fibonacci Series Generator
+- Swap Two Numbers using Function
+- Find Minimum of Three Numbers
+
+## Language
+C++
+
+## Author
+Ayush Tukaram Chabukswar
